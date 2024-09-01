@@ -22,13 +22,3 @@ This is a program to generate the pyament slips of all employee in a company. It
 
 - **For R**
 1. jsonlite - This package was used to pretty print the Employee details.
-
-
-## How To Use The Program
-- **For Python**
-1. Install the json package -- "pip install json"
-2. Execute the "main.py" file on the terminal to generate the payslip of the employees. -- "python3 main.py"
-
-- **For R**
-1. Install the jsonlite library -- "install.packages("jsonlite")
-2. Execute the "main.R" file on the terminal to generate the payslip of the employees. -- "Rscript main.R"
