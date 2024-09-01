@@ -1,6 +1,7 @@
 # Module 1 Assignment: Highridge Construction Company Payment Slips 
 
-This is a 
+This is a program to generate the pyament slips of all employee in a compmay. 
+It will give details of their names, gender, employee level and employee salaries
 
 
 ## Key Features
@@ -12,7 +13,7 @@ This is a
 
 ## GitHub Repository
 
-- **GitHub**: Added the project to Github
+- **GitHub**: Added the project to Github - https://github.com/Onyedikachi-E/payment_slips.git
 
 ## Packages Used in the project
 - For Python
