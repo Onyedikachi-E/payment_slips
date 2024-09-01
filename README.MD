@@ -22,4 +22,4 @@ This is a program to generate the pyament slips of all employee in a company. It
 
 
 - **For R**
-1. jsonlite - This package was used to pretty print the Employee details using indentation 4
+1. jsonlite - This package was used to pretty print the Employee details

@@ -47,7 +47,7 @@ try:
         # Pretty Print the output
         print (json.dumps(payment_slip, indent=4))
 
-# Error Handling
+# Error Handling for Exception
 except Exception as e:
     # Error Message
     error_message = {"message":str(e)}
